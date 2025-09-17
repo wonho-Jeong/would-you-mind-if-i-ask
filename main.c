@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*wonho.Jeong
-  Wonho.Jeong
+  Wonho Jeong
   CS120 second assignment
   17.SEP.2025*/
 int add(int one_digit, int two_digit) {
