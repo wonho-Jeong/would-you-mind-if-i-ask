@@ -44,7 +44,7 @@ int main() {
         } else if(like_doing == 3) {
             printf("product : %d\n", multiply(one_digit, two_digit));
         } else {
-            printf("What? What do you want?");
+            printf("What? What do you want?\n");
         }
     }
     return 0;
