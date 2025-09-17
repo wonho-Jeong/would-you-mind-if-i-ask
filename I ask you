@@ -6,6 +6,7 @@
 int add(int one, int two) {
 int sum = one + two;
 return sum;
+}
 1. Make a function called add() that accepts two integers as parameters and returns the sum.
 2. Make a function called subtract() that accepts two numbers and subtracts one from the other and returns the difference.
 3. Make a function called multiply() that accepts two numbers and multiplies them together, then returns the product.
