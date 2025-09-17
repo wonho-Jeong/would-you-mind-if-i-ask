@@ -2,3 +2,16 @@
 //Your DigiPen ID + your partner's DigiPen ID
 //The class name (CS120)
 //The date
+
+int add(int one, int two) {
+int sum = one + two;
+return sum;
+1. Make a function called add() that accepts two integers as parameters and returns the sum.
+2. Make a function called subtract() that accepts two numbers and subtracts one from the other and returns the difference.
+3. Make a function called multiply() that accepts two numbers and multiplies them together, then returns the product.
+4. In your main() function, create a loop that will repeat forever. At the start of the loop, a menu is displayed to ask the user which options they would like to do.
+5. If the user enters 0, exit the loop, immediately.
+6. If the user enters 1, 2, or 3, the loop is not exited and the user is asked for 2 values.
+7. Depending on the menu input, either add the numbers, subtract them, or multiply them using the add(), subtract(), and multiply() functions.
+8. When the program is about to exit, print out "Bye-bye!".
+9. Have a nicely-formatted multi-line comment at the top of your code with this information:
